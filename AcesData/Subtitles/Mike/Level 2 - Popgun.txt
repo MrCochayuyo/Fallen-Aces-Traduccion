@@ -1,0 +1,3 @@
+{ T 0 } "Eso lo imprimen en tu acta de nacimiento?"
+{ T 2 } "Bueno como sea..."
+{ T 3 } "Escucha colega, Hay alguna posibilidad que pongas esa arma a funcionar y te encargues de estos tipos que andan por aqui?"

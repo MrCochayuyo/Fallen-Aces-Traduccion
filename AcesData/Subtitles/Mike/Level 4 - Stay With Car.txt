@@ -1,0 +1,2 @@
+{ T 0 } "Quedate aquí con el coche."
+{ T 1.5 } "No quiero que tu brazo inutil me retrase..."

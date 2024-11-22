@@ -1,0 +1,2 @@
+{ T 0 } "Necesito sacarte de aqui."
+{ T 1.2 } "Nightwave dijo que tal vez tengas un viejo cacharro por aqui que podamos usar para escapar"

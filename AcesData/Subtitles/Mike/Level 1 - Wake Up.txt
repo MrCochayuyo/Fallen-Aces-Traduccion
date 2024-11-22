@@ -1,0 +1,2 @@
+{ T 0 }"Ugh, mi cabeza. Que hora es?"
+{ T 5 }"Tengo que dejar de beber de esa manera."

@@ -1,0 +1,2 @@
+{ T 0 } "Muy bien Mr. Aguafiestas, me vas a decir que tienes en mente?"
+{ T 3 } "Tienes un nombre?"

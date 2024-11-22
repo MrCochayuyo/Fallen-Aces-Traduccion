@@ -1,0 +1,3 @@
+{ T 0 } "*Tos*" 
+{ T 4 } "Hijo de puta!" 
+{ T 9 } "No es lo que yo llamaria un reencuentro feliz."

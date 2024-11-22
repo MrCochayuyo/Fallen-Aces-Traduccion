@@ -1,0 +1,2 @@
+{ T 0 } "En serio? no me digas."
+{ T 1.6 } "Todo un maestro de la observacion eh?"

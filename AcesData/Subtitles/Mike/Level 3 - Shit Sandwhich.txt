@@ -1,0 +1,2 @@
+{ T 0 } "Y tu amigo terminó justo en el medio."
+{ T 2.7 } "Un verdadero desastre..."

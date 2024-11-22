@@ -1,0 +1,3 @@
+{ T 0.3 } "Oye, encontre un cadáver en el fondo del puerto."
+{ T 3.4 } "Llevaba puesto algún tipo de equipo de buceo."
+{ T 6 } "Te dice algo?"

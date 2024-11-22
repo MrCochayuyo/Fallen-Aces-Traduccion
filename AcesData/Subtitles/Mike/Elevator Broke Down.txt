@@ -1,0 +1,2 @@
+"Me estas jodiendo con esto? Vamos!" 
+{ T 3.2 }"Genial... Tiene que haber una salida por aqui."

@@ -1,0 +1,2 @@
+{ T 0 } "Ah mierda!"
+{ T 1.6 } "Todo el muelle va escuchar este escandalo!"

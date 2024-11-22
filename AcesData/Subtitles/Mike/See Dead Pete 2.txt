@@ -1,0 +1,6 @@
+{ noName }
+{ T 2.5 } "No vas a tener que hacerlo. Glassjaw quiere ver tu cara de mierda. Cara a cara."
+{ T 8.5 } "Y ver el miedo en tus ojos antes de dispararte."
+{ T 11.5 } "Muy bien chicos, arrastren a esta mierda hasta el coche y vámonos."
+{ T 16 } "No puedo esperar a ver esto, va a ser una fiesta de lo más brutal."
+{ T 20 } " "
