@@ -1,6 +1,0 @@
-{ T 0 } "Gracias por lidiar con esos ladrones."
-{ T 3.4 } "No sé a qué viene esta ciudad."
-{ T 6 } "Amenazar a un hombre en una maldita silla de ruedas."
-{ T 9.6 } "Lo siguiente que sabes es que comenzarán a perseguir a las viejitas."
-{ T 13 } "Bombardeando orfanatos"
-{ T 15.4 } "Sin respeto, no señor."

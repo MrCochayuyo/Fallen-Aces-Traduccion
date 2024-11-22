@@ -1,4 +1,0 @@
-{ T 0 } "No es necesario que no llame la atencion"
-{ T 2.8 } "Cuando tiene una velocidad maxima de..."
-{ T 4.9 } "322 KMH"
-{ T 8 } "No hay otro coche en esta ciudad que pueda ir tan rapido"

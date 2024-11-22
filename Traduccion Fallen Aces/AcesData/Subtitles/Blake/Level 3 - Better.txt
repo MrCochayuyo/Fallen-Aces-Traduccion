@@ -1,4 +1,0 @@
-{ T 0.4 } "Je je"
-{ T 1.7 } "Tengo algo MEJOR que eso."
-{ T 4.6 } "Ve a echar un vistazo al taller de atras."  
-{ T 7 } "Aqui esta la llave."
