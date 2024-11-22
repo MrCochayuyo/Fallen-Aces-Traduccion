@@ -1,0 +1,2 @@
+{ T 0 } "Bueno..."
+{ T 0.7 } "Al menos ahora tienes una sonrisa tan torcida como el resto de ti."

@@ -1,0 +1,3 @@
+{ T 0 } "Cuidado, hay un francotirador arriba de ti."
+{ T 3 } "Deja esto a mi..."
+{ T 7 } "Estate atento, seguro que hay mas cerca."

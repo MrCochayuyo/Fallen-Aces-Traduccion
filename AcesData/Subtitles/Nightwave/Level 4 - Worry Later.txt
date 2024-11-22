@@ -1,0 +1,4 @@
+{ T 0 } "Nos preocupamos de eso despues."
+{ T 1.6 } "Por ahora..."
+{ T 2.8 } "Intenta noquearlos a todos"
+{ T 4.2 } "No necesitamos mas cadáveres por el lugar del crimen"

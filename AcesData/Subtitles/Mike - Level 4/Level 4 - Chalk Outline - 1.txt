@@ -1,0 +1,4 @@
+{ T 0 } "Aqui hay un contorno de tiza."
+{ T 2.1 } "Uno de los guardaespaldas de Waltz."
+{ T 4.4 } "Sangre salpicada en la pared."
+{ T 6.1 } "Le debieron haber disparado en el cuello."

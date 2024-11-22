@@ -1,0 +1,4 @@
+{ T 0 } "Ves ese puente levadizo?" { T 2.5 } "Esa es nuestra salida de aqui."
+{ T 4.25 } "Tendras que encontrar la manera de bajarlo para que podamos cruzar y escapar."
+{ T 8.7 } "Los controles del puente están al otro lado del puerto."
+{ T 11.8 } "Una vez que bajes el puente, regresa aqui y te explicare todo."

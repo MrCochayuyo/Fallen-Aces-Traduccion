@@ -1,0 +1,5 @@
+{ T 0 } "La victima forcejeo..."
+{ T 2.3 } "El patron de sangre y la posición del cuerpo indican"
+{ T 4.8 } "trauma contuso en la cabeza."
+{ T 7.4 } "El asesino debio quedarse sin balas."
+{ T 9.2 } "...o el arma se atasco."

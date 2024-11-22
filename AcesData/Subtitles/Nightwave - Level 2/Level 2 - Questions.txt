@@ -1,0 +1,3 @@
+{ T 0 } "Escucha, probablemente tienes muchas preguntas."
+{ T 2.7 } "Si quieres salir de aqui con vida, necesitas seguir mis instrucciones."
+{ T 7 } "Toma el ascensor hasta arriba, hay algo que debes ver."

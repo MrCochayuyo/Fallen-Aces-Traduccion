@@ -1,0 +1,3 @@
+{ T 0 } "Maldita sea, Mike..."
+{ T 2.0 } "Te dije que los NOQUEARAS."
+{ T 3.8 } "No que convirtieras el lugar en un cementerio"

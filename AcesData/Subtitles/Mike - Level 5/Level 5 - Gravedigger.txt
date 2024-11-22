@@ -1,0 +1,3 @@
+{ T 0 } "Asi que me han ascendido de chico de recados a enterrador?"
+{ T 3.8 } "Bien!"
+{ T 4.5 } "Adelante, envialos para aca."

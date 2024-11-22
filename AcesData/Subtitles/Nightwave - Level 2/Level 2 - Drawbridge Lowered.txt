@@ -1,0 +1,2 @@
+{ T 1 } "Buen trabajo, cruza el puente de regreso al cuarto de bombas donde comenzaste." 
+{ T 4 } "Alli estare esperandote."

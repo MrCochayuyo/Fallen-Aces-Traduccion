@@ -1,0 +1,2 @@
+{ T 0.25 } "Delia..." 
+{ T 1.6 } "Ese hijo de puta...."

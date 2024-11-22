@@ -1,0 +1,3 @@
+{ T 0 } "Espera hay mas aquí."
+{ T 1.6 } "Tus viejos compañeros de los ACES tampoco eran tan limpios."
+{ T 5.9 } "Estaban todos metidos en este sucio asunto..."

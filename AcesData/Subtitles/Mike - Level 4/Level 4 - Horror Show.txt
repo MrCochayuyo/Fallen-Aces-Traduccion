@@ -1,0 +1,5 @@
+{ T 0.8 } "Este show de terror empieza a ponerme la piel de gallina."
+{ T 4.0 } "Alguien entró aqui y puso a Waltz como un trofeo de caza."
+{ T 8.4 } "Alguien pequeño, fuerte e inteligente."
+{ T 11.4 } "El niño puso su obra de arte en la nevera para que todos la vieran."
+{ T 14.4 } "Parece estar bastante orgulloso de si mismo."

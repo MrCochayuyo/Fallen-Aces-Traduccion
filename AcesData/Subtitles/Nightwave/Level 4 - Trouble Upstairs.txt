@@ -1,0 +1,2 @@
+{ T 0 } "Tenemos mas problemas arriba."
+{ T 1.7 } "Agarra esos documentos y sal de ahi."

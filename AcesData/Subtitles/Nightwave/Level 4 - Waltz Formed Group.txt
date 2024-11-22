@@ -1,0 +1,2 @@
+{ T 0 } "Waltz se adueño de..."
+{ T 1.7 } "Muchas cosas."

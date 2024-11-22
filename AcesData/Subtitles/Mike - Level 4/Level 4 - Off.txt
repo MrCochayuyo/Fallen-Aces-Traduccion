@@ -1,0 +1,3 @@
+{ T 0 } "Thomas debe estar loco si esta dispuesto a llegar tan lejos para conseguir lo que sea que quiera."
+{ T 5.0 } "No se si está desesperado o simplemente..."
+{ T 7.0 } "Estupido."

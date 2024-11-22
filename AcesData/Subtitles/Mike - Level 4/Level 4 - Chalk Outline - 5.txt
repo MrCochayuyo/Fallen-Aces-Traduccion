@@ -1,0 +1,3 @@
+{ T 0.5 } "Hay una marca en el suelo aqui"
+{ T 2.3 } "Podria haber sido causada con algun tipo de objeto largo y afilado."
+{ T 6.5 } "Algo pesado."

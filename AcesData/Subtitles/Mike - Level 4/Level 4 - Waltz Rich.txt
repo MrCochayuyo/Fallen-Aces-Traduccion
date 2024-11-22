@@ -1,0 +1,3 @@
+{ T 0 } "Vaya..."
+{ T 2.0 } "Sabia que Waltz tenia dinero, pero joder!"
+{ T 4.0 } "Deberia haber pedido mas pasta cuando me contrato."

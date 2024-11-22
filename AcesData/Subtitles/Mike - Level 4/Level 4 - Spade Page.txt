@@ -1,0 +1,3 @@
+{ T 0 } "La policia debio haberse perdido esto..."
+{ T 1.8 } "un poco de sangre en las esquinas."
+{ T 3.8 } "Esto no lo dejaria un sicario cualquiera."

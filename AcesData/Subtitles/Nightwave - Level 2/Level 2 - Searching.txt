@@ -1,0 +1,3 @@
+{ T 1.5 } "Voy a estar buscando a una persona desaparecida, fue vista por ultima vez en esta zona."  
+{ T 5 } "Hare lo posible por ayudarte por radio."
+{ T 7.8 } "Y ten cuidado, este lugar está lleno de criminales que querrán acabar contigo."

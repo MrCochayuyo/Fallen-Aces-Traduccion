@@ -1,0 +1,2 @@
+{ T 0 } "Bien, llegaste al otro lado." 
+{ T 2.5 } "La sala de control debería estar junto al puente."

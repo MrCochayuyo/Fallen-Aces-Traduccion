@@ -1,0 +1,4 @@
+{ T 1.5 } "Era la persona que buscaba..."
+{ T 4.5 } "un antiguo ACE como yo."
+{ T 6.7 } "Parece que llegue demasiado tarde para salvarlo."
+{ T 9.8 } "Bueno... no puedo preocuparme por eso ahora."

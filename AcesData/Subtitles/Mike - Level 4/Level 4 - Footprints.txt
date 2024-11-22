@@ -1,0 +1,6 @@
+{ T 0 } "Huellas de sangre."
+{ T 1.6 } "Tamaño ocho y medio."
+{ T 3.4 } "Un tipo pequeño."
+{ T 4.6 } "Su forma de caminar está rara."
+{ T 6 } "El dueño del zapato debió haber"
+{ T 7.6 } "...estado herido o... tener una leve cojera."

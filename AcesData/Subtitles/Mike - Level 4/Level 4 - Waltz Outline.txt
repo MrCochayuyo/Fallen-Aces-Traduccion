@@ -1,0 +1,5 @@
+{ T 0 } "A juzgar por la altura y la forma del cuerpo."
+{ T 2.6 } "Este debe ser Waltz."
+{ T 4.6 } "Atrapado en la pared."
+{ T 6.2 } "Parece algo muy personal."
+{ T 8.0 } "El asesino debe ser muy fuerte para convertir a un tipo en un kebab"

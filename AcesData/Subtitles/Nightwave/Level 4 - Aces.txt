@@ -1,0 +1,7 @@
+{ T 0 } "Hm, es una larga historia."
+{ T 2.4 } "Algunos de nosotros no estabamos de acuerdo en muchas cosas."
+{ T 5.0 } "Eso llevo a jugadas malas por parte de Waltz."
+{ T 7.0 } "Lo que a su vez llevó a algunos..."
+{ T 9.6 } "Eventos trágicos..."
+{ T 11 } "Cuando todo termino"
+{ T 13 } "La ciudad ya no queria saber nada de nosotros."

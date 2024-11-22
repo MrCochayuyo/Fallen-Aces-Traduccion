@@ -1,0 +1,4 @@
+{ T 0 } "Amigo, ni te daria la piel de una uva"
+{ T 3.0 } "Realmente vale la pena todo este lio?"
+{ T 5.7 } "Un monton de policias muertos como adornos en el jardín..."
+{ T 7.6 } "no es precisamente sutil."

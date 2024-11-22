@@ -1,0 +1,3 @@
+{ T 0 } "Hmm, sin duda es audaz."
+{ T 2.3 } "Sea como sea, vamos a revisar la casa en busca de respuestas."
+{ T 5.3 } "Tenemos que actuar rápido"

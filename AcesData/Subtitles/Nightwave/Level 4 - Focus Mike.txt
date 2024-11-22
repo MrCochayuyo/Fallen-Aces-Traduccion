@@ -1,0 +1,4 @@
+{ T 0 } "Concentrate, Mike, tienes un trabajo que hacer."
+{ T 2.7 } "Revisa la casa en busca de pistas relacionadas con los asesinatos."
+{  T 6.0 } "Esos matones estaban buscando algo."
+{ T 7.8 } "Asi que manten los ojos bien abiertos."

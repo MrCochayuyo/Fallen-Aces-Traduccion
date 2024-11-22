@@ -1,0 +1,2 @@
+{ T 0 } "Escucha, el tipo esta muerto!."
+{ T 1.8 } "No lo va a extrañar."

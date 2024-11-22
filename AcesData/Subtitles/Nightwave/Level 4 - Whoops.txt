@@ -1,0 +1,5 @@
+{ T 0 } "Si..."
+{ T 1.1 } "Upss."
+{ T 2.0 } "*Suspiro decepcionado*"
+{ T 3.3 } "Apurate y revisa la casa."
+{ T 5.2 } "Todo esto ya se fue al diablo."

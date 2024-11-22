@@ -1,0 +1,2 @@
+{ T 0 } "Hmm, desafortunadamente solo me quedan unos pocos tiros."
+{ T 3 } "Solo hazme una señal, y me encargare de ellos."

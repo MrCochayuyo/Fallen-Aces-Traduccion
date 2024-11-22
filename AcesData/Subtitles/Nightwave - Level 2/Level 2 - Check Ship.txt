@@ -1,0 +1,2 @@
+{ T 0 } "Hmm, hace un rato vi algo de movimiento cerca del muelle de los cargueros"
+{ T 4 } "Vale la pena echarle un vistazo."

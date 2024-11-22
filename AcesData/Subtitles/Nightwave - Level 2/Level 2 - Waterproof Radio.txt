@@ -1,0 +1,2 @@
+{ T 0 } "Como sabias que los comunicadores eran a prueba de agua?"
+{ T 3.4 } "...SABIAS eso antes de saltar ahi como un idiota, verdad?"

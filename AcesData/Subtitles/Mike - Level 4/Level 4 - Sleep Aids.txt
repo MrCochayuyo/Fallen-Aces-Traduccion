@@ -1,0 +1,2 @@
+{ T 0 } "Buena idea traer los dardos tranquilizantes."
+{ T 2.3 } "Hacerlos dormir va a ser pan comido."

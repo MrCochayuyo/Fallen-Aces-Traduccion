@@ -1,0 +1,6 @@
+{ T 0 } "Creo que encontre lo que buscaban."
+{ T 2.1 } "Woof!"
+{ T 3.4 } "Este archivo tiene trapos sucios de casi todo el mundo en la ciudad."
+{ T 6.6 } "Nombres, fechas, direcciones... de todo!"
+{ T 9.6 } "Parece que Waltz se ha estado llevando bastante bien con la familia criminal Benedetto."
+{ T 13.6 } "Esto haria sonrojar al más pillo."

@@ -1,0 +1,3 @@
+{ T 0 } "Uh..."
+{ T 1.2 } "Bonito autorretrato."
+{ T 2.9 } "Que tan pretencioso puedes llegar a ser?"

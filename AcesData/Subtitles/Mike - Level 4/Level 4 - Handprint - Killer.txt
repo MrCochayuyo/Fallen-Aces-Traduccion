@@ -1,0 +1,5 @@
+{ T 0 } "Encontre una marca de una mano."
+{ T 1.4 } "No hay huellas dactilares."
+{ T 3.0 } "El asesino llevaba guantes."
+{ T 5.0 } "La altura y el angulo de la mano me dicen que el asesino media alrededor de..."
+{ T 7.6 } "Uno setenta y ocho, uno ochenta."

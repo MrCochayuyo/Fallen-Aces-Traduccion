@@ -1,0 +1,5 @@
+{ T 0 } "Esto no esta en el manual de la mafia.."
+{ T 2 } "Hm, tal vez tengamos que replantearnos como estamos viendo esto."
+{ T 5.2 } "Aun asi, los hombres de Glassjaw estuvieron aqui por una razon."
+{ T 8.9 } "Sigue buscando."
+{ T 10 } "Debe haber algo."

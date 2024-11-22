@@ -1,0 +1,3 @@
+{ T 0 } "Bueno..."
+{ T 1.7 } "No puedo preocuparme por eso ahora..."
+{ T 4.0 } "*Suspiro decepcionado*"

@@ -1,0 +1,4 @@
+{ noName }
+{ T 0 } "Delia: Solo..."
+{ T 1.6 } "Delia: saquenme de aqui..."
+{ T 3.1 } "Delia: lo mas rapido posible..."

@@ -1,0 +1,2 @@
+{ T 0 } "Oye, buenas noticias."
+{ T 1.6 } "Parece que encontré ese libro."

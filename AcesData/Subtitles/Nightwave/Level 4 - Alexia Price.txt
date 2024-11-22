@@ -1,0 +1,2 @@
+{ T 0 } "Se hacia llamar Scarlet Whisper."
+{ T 1.7 } "Fue ella quien tuvo la idea de formar los ACES."
