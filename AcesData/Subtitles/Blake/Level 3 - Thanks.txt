@@ -1,0 +1,2 @@
+{ T 0 } "Ja ja!"
+{ T 1.1 } "Gracias por lidiar con esos ladrones!"

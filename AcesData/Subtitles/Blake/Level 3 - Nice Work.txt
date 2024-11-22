@@ -1,0 +1,3 @@
+{ T 0 } "Buen trabajo, puedo ver por que Nightwave te envio."
+{ T 4.5 } "Encuentrame en el viejo garaje al otro lado del camino"
+{ T 7.4 } "Te abrire la puerta"

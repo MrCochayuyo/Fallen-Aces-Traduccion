@@ -1,0 +1,3 @@
+{ T 0 } "Estarán aqui en cualquier momento." 
+{ T 2.3 } "Si aún no has colocado esas trampas"
+{ T 4.2 } "Ahora es un buen momento para hacerlo."

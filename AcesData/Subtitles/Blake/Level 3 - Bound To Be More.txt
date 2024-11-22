@@ -1,0 +1,5 @@
+{ T 0 } "Seguramente apareceran mas de esas basuras en cualquier momento."
+{ T 3.8 } "He hecho algunas pequeñas sorpresas desagradables para ellos."
+{ T 6.0 } "Coge un par y colocalos sobre una superficie lisa..."
+{ T 9.4 } "Y deja que el cable trampa haga el resto."
+{ T 12 } "Solo ten cuidado de no explotarte tu mismo"
