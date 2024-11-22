@@ -1,0 +1,7 @@
+{ T 0 } "Hey Mike!"
+{ T 1.5 } "Nightwave me dijo que ibas a venir."
+{ T 3.5 } "Escucha..."
+{ T 4.3 } "Estos bastardos me están haciendo pasar un mal rato."
+{ T 7 } "Estoy escondido dentro del garage."
+{ T 9.4 } "Te importaria echarme una mano pateandoles el trasero?"
+{ T 12.6 } "Cuidado por donde pisas, he alambrado el lugar con trampas explosivas"
