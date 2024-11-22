@@ -1,0 +1,5 @@
+{ T 0 } "No, ella no ira a ninguna parte."
+{ T 2.0 } "La tienen drogada y bien encerrada."
+{ T 4.1 } "El jefe tiene planes para ella"
+{ T 5.6 } "El cree que tal vez tenga algunos amigos que vengan a rescatarla."
+{ T 8.0 } "Asi que mantente alerta eh?"

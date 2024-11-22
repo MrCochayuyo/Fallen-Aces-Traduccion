@@ -1,0 +1,6 @@
+{ T 0 } "No te preocupes por eso."
+{ T 1.6 } "Conozco a un tipo."
+{ T 2.8 } "Solo concetrate en vigilar que no haya mas polis."
+{ T 6.3 } "Tenemos que ser rapidos en esto."
+{ T 8.0 } "Mas les vale a estos idiotas darse prisa."
+{ T 10 } "Tenemos que sacar a estos polis de la carretera y deshacernos de ellos rápido."

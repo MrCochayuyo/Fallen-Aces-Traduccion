@@ -1,0 +1,4 @@
+{ T 0 } "Cómo te va, viejo amigo?"
+{ T 2.7 } "Me resulta divertido que seas mi pequeño..."
+{ T 5.0 } "chico de los encargos..."
+{ T 7.0 } "Es hora que me des lo que me debes."

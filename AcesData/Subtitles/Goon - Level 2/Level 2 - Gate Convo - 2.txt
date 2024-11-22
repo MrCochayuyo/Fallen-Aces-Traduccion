@@ -1,0 +1,3 @@
+{ T 0.5 } "Ah, No se. Desde las nueve y cuarto, por ahi."
+{ T 3.22 } "Ha estado lloviendo a cantaros todo el dia y yo estoy aqui empapandome mientras los otros estan afuera haciendo el tonto con los Beneddetos"
+{ T 11.23 } "Juro por Dios que si me resfrio... no lo se. Es estúpido. De todos modos, qué hay de ti?"

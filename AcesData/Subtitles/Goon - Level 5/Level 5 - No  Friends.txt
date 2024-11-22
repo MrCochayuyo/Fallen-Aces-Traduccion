@@ -1,0 +1,4 @@
+{ T 0 } "Ahh aceptalo..."
+{ T 1.4 } "No tienes amigos porque eres fea..."
+{ T 3.4 } "y apestas..."
+{ T 4.8 } "y eres una idiota..."

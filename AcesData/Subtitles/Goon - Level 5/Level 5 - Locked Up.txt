@@ -1,0 +1,4 @@
+{ T 0 } "El jefe dice que la mantengamos encerrada por ahora."
+{ T 2.4 } "No me gusta la idea de golpear a una pobre mujer..."
+{ T 5.5 } "Pero ya viste lo que sucedio."
+{ T 7.2 } "La puta loca se lo merecia!"

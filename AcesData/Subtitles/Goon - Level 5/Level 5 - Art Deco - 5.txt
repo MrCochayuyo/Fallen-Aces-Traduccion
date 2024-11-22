@@ -1,0 +1,2 @@
+{ T 0.25 } "Bueno, decidi que asaltar bancos y lastimar a las personas era mas mi estilo."
+{ T 7 } "Entonces, elegi eso en su lugar."

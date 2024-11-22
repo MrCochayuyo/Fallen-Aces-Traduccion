@@ -1,0 +1,2 @@
+{ T 0 } "Pobres bastardos..."
+{ T 1.4 } "Deberiamos matar a esa zorra de una vez!"

@@ -1,0 +1,3 @@
+{ T 0 } "Eres un cobarde!"
+{ T 1.7 } "Me dejaste morir en ese almacén."
+{ T 4.0 } "Me dejó con una cara que mi propia madre no reconocería."

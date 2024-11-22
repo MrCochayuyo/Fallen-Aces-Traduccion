@@ -1,0 +1,3 @@
+"Pff, no! Ignorante. Este es un clásico, se trata de los ACES!"
+{ T 6.5 } "Los legendarios luchadores contra el crimen que protegian la ciudad en los viejos tiempos."
+{ T 11 } "Las cosas que hacían eran legendarias. Y todo era real."

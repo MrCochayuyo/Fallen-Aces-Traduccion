@@ -1,0 +1,2 @@
+{ T 0 } "*Silbido* Bonito lugar el que tienes aqui, viejo. Bonitas sillas rojas, muchos cuchillos afilados."
+{ T 8.4 } "Por qué, un tipo como tú? Bueno, podrías acabar teniendo un problema muy feo."

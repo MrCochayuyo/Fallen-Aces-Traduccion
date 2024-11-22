@@ -1,0 +1,4 @@
+{ T 0 } "Le di suficientes oportunidades a ese imbecil. Se cree importante solo porque maneja los almacenes."
+{ T 5.4 } "Bueno, no lo es. Tiene suerte por tener un trabajo aquí. Me encargué de que le den más fichas que a los demas."
+{ T 11.65 } "Joder, lo unico que pido es que me de un pequeño reconocimiento por todo lo que he hecho por el , y que obtengo por mi generosidad? Asi es, una mierda."
+{ T 21.42 } "Siempre se queda corto."

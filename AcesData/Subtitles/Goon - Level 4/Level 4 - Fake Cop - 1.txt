@@ -1,0 +1,3 @@
+{ T 0 } "Buena idea conseguir los trajes de policia!"
+{ T 2.8 } "Es como una pequeña y divertida fiesta de disfraces. Je je."
+{ T 6.3 } "Oye de donde sacaste esos autos de policia?"

@@ -1,0 +1,7 @@
+{ T 0 } "La noche ha estado llena de sorpresas eh?"
+{ T 3.6 } "Tengo una mas para ti..."
+{ T 5.6 } "Bueno..."
+{ T 6.6 } "Mejor dicho, para tu amigo el de las gafas."
+{ T 9.6 } "Conseguí este artilugio de una joven bonita que estuvo husmeando en mi club nocturno."
+{ T 15 } "Pero..."
+{ T 16 } "Ella no esta para hablar mucho ahora mismo."

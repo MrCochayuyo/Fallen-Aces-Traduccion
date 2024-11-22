@@ -1,0 +1,3 @@
+{ T 0 } "Te estoy diciendo que fue el!"
+{ T 2.0 } "Quien más podría haber dejado un rastro de cuerpos como ese?"
+{ T 4.9 } "Alguien ha estado arruinando toda nuestra operacion durante meses!"

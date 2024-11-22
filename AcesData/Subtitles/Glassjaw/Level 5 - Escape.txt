@@ -1,0 +1,7 @@
+{ T 0 } "No creo que entiendas como funciona esto."
+{ T 2 } "Soy el DUEÑO de esta puta ciudad!"
+{ T 4 } "Tú y ese vigilante no sois nadie!"
+{ T 6 } "No son NADIE!"
+{ T 8.0 } "Crees que salvar a la chica va a cambiar algo?"
+{ T 10.8 } "Mas te vale tener tus cartas bien guardadas."
+{ T 13 } "Porque estoy jugando para ganar hijo de puta!"

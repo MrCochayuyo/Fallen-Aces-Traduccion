@@ -1,0 +1,4 @@
+{ T 0 } "Ves lo que te da la generosidad?"
+{ T 4.0 } "Tienes el camino libre para pasar."
+{ T 6.7 } "No se te ocurra intentar nada raro"
+{ T 8.5 } "Recordare tu cara, amigo."

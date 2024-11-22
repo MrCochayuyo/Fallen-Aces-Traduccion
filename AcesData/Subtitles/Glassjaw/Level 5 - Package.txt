@@ -1,0 +1,4 @@
+{ T 0.25 } "Nunca sabes cuando callarte, verdad?"
+{ T 3.8 } "SIEMPRE tienes algo inteligente que decir"
+{ T 6.4 } "Esta bien entonces, tipo duro"
+{ T 8.6 } "Por que no solo hago que mis chicos te QUITEN ese paquete."

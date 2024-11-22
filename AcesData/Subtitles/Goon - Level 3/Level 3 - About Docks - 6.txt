@@ -1,0 +1,3 @@
+{ T 0 } "Oye..."
+{ T 1.3 } "Creo que tienes razon..."
+{ T 3 } "Eh, para que preocuparme?" 

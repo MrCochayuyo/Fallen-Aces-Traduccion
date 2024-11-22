@@ -1,0 +1,3 @@
+{ T 0 } "Que? No tienes pasta?"
+{ T 1.5 } "LARGATE de aqui!"
+{ T 3.0 } "Y vuelve cuando tengas algo de dinero, inutil!"

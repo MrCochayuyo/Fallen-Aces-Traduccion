@@ -1,0 +1,4 @@
+{ T 0 } "Detente"
+{ T 1.0 } "Este es territorio de los Benedetto"
+{ T 3.0 } "Quieres pasar? Tendras que pagar."
+{ T 5.4 } "Asi son las reglas."

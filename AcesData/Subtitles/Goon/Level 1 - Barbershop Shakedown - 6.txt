@@ -1,0 +1,1 @@
+{ T 0.75 } "Te gusto la ultima frase que le dije? La invente yo mismo."

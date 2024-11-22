@@ -1,0 +1,6 @@
+{ T 0.9 } "Asi es como van a ir las cosas."
+{ T 3.8 } "Tu tienes algo que yo quiero."
+{ T 6.0 } "Entonces..."
+{ T 7.0 } "Me lo vas a entregar."
+{ T 9.0 } "y luego..."
+{ T 10.5 } "Te dejare irte con la chica."

@@ -1,0 +1,3 @@
+{ T 0.5 } "Sinceramente, No tengo idea de que estas hablando."
+{ T 3.65 } "De todos modos, si ya dejaste de charlar, Es mi turno. A ver..."
+{ T 8.63 } "Oh, mira, un fullhouse! Bueno, Supongo que no es su dia de suerte!"

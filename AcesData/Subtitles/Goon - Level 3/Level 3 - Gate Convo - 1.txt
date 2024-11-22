@@ -1,0 +1,3 @@
+{ T 0 } "Joder no!"
+{ T 1 } "El lugar esta lleno de trampas!"
+{ T 3.2 } "Me gusta tener mis pelotas justo donde estan, muchas gracias."

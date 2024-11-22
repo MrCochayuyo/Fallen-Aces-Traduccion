@@ -1,0 +1,5 @@
+{ T 0.25 } "Bueno, en realidad, ahi es donde te equivocas. No puedo culparte, es una idea errónea comun que la gente tiene sobre la arquitectura moderna."
+{ T 7 } "Veras, el Art Deco se basa en el estilo y el adorno. Utiliza un montón de formas geométricas y patrones."
+{ T 13.25 } "El Streamline Moderne, aunque similar, se centra más en el diseño liso y elegante."
+{ T 18.85 } "Deshaciendose de la decoración llamativa y las formas geometricas rusticas del Art Deco."
+{ T 23.88 } "Los principios de su diseño se enfocan más en la aerodinámica y la funcionalidad de la estructura."

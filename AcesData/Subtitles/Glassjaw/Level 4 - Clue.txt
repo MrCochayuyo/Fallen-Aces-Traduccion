@@ -1,0 +1,7 @@
+{ T 0 } "Heh..."
+{ T 1.5 } "Oh Michael..."
+{ T 3.7 } "Tan ingenuo"
+{ T 5.8 } "Me pregunto por qué dejaste el boxeo."
+{ T 8.8 } "Siempre tuviste mas fuerza que cerebro"
+{ T 12.0 } "Todavia no tengo idea de lo que esta pasando..."
+{ T 14.6 } "Y tu?"

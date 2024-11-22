@@ -1,0 +1,6 @@
+{ T 0 } "Quizas..."
+{ T 1.5 } "No estas entendiendo todo el panorama."
+{ T 3.5 } "Dejame que te lo explique."
+{ T 5.9 } "Traeme esos papeles..."
+{ T 7.6 } "...o la chica muere."
+{ T 9.8 } "He sido claro?"

@@ -1,0 +1,2 @@
+{ T 0.25 } "Bueno, no va a ser un problema por mucho tiempo. Pronto le voy a hacer una visita."
+{ T 4.7 } "El va pagar, o va acabar en el fondo del muelle, al igual que los otros que se creian muy listos pero no tenian siquiera neuronas."

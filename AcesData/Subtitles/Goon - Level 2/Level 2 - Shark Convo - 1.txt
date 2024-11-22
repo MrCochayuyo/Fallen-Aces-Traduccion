@@ -1,0 +1,2 @@
+{ T 0 } "Oye, eh, no te acerques tanto al borde. Vi a uno de esos trabajadores del muelle inclinarse asi, y un tiburón salto del agua como un maldito corcho y lo arrastro!"
+{ T 11 } "Boom! Y desaparecio asi de rápido! Lo desmenuzaron como si fuera algodón de azucar!"

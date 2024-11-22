@@ -1,0 +1,1 @@
+{ T 0 } "Eh, algunos tipos tienen que aprender a las malas supongo."

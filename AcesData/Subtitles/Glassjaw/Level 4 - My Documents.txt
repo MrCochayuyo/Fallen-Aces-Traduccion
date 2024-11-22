@@ -1,0 +1,4 @@
+{ T 0 } "Tsk tsk tsk..."
+{ T 1.8 } "Ahora bien..."
+{ T 3.8 } "No te irías con MIS documentos..."
+{ T 7.0 } "Lo harias?"

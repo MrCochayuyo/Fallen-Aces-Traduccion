@@ -1,0 +1,2 @@
+"No tengo mucho, uhh, aqui tienes!"
+{ T 2.5 }"Toma esta llave de la sala de almacenamiento en la parte de atras, hay algunos suministros que puedes usar. Toma lo que quieras."
