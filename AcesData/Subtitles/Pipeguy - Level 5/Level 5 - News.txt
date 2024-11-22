@@ -1,0 +1,2 @@
+{ T 0 } "Entonces uhh..."
+{ T 1.5 } "Cual es la noticia sobre el canario?"

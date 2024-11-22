@@ -1,0 +1,3 @@
+"No te pongas nervioso, colega."
+{ T 2.8 }"Cuando los chicos terminen arriba, nos largamos"
+{ T 5.8 }"Es solo un tipo, qué tanto problema puede dar?"

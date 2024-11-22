@@ -1,0 +1,6 @@
+{ T 0 } "Si."
+{ T 0.8 } "Todo paso tan rapido."
+{ T 2.8 } "Un segundo estabamos con fichas de poker y bourbon."
+{ T 5.0 } "Y al SIGUIENTE, balas y sangre!"
+{ T 6.8 } "Rompio el brazo de Reggie como un maldito palillo de dientes."
+{ T 10.8 } "Qué lastima lo de Marco y Spider eh?"

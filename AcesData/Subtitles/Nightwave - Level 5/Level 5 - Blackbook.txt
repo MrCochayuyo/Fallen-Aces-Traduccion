@@ -1,0 +1,3 @@
+{ T 0 } "Delia dijo que desenterro algo de trapos sucios sobre estos tipos."
+{ T 3.3 } "Lo escribio todo en su libreta."
+{ T 5.3 } "Asi que intenta encontrarla mientras estás alli"

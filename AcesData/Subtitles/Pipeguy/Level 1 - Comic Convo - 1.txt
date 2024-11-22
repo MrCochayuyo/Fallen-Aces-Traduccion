@@ -1,0 +1,3 @@
+{ T 0.1 } "Malditos Benedetto!, esa mierda tiene que estar por aqui"
+{ T 5.5 } "Oye! Por qué demonios estas perdiendo el tiempo?"
+{ T 8.5 } "Glassjaw dice que quiere este lugar patas arriba!"

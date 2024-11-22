@@ -1,0 +1,6 @@
+{ T 0 } "Vamos, suficiente!"
+{ T 1.5 } "Has estado escuchando demasiados cuentos de fantasmas."
+{ T 3.6 } "No te creas esa tonteria que ves en los periodicos."
+{ T 5.9 } "Probablemente algo que la policia invento para asustar a nuestra banda."
+{ T 9.0 } "Los ACES llevan retirados mucho tiempo."
+{ T 11.6 } "Vaya, uno de ellos se esta postulando para alcalde!"

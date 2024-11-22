@@ -1,0 +1,2 @@
+{ T 0 } "Cuando lo encuentres, traemelo."
+{ T 1.8 } "Quiero ser yo quien le meta la bala en la cabeza."

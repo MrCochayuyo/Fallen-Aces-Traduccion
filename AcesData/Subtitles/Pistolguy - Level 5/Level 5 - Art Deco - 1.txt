@@ -1,0 +1,3 @@
+{ T 0 } "Asaltar ese banco fue pan comido."
+{ T 3.2 } "Estaba pensando en usar mi parte para conseguir uno de esos lugares elegantes que tienen en Archibald Heights."
+{ T 9.28 } "Has visto alguna de esas casas? Probablemente las más elegantes fuera de la Torre Dorada."

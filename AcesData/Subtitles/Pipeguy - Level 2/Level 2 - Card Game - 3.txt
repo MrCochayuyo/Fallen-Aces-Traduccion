@@ -1,0 +1,2 @@
+{ T 0 } "Te acabo de ver — me miraste a los ojos cuando lo hiciste! Tenias esa mirada vacia en tu cara de inutil que siempre pones, y lentamente metiste la carta en la manga como si nadie se fuera a dar cuenta!"
+{ T 12 } "Como vas a quedarte ahi sentado y decirme que no lo hiciste?"

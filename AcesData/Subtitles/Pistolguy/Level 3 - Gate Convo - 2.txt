@@ -1,0 +1,4 @@
+{ T 0 } "No puedo creer esto!"
+{ T 1.4 } "Ustedes son un monton de cobardes sin agallas!"
+{ T 4.6 } "El tipo que estamos buscando es un maldito INVIDENTE, por el amor de Dios!"
+{ T 8.5 } "Saben que? Está bien, lo hare yo."

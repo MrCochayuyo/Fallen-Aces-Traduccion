@@ -1,0 +1,3 @@
+{ T 0 } "Blake deberia estar escondido en el garaje cercano"
+{ T 2.9 } "Hmm, los Benedetto y los Glassheart se han estado repartiendo el vecindario como parte de su guerra territorial."
+{ T 8 } "Los Benedetto por un lado, los Glassheart por el otro."

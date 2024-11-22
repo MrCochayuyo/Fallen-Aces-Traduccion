@@ -1,0 +1,2 @@
+{ T 0 } "Miserable...  escucha, imbécil, vi lo que hiciste. Pareces un maldito niño atrapado en una mentira."
+{ T 6 } "Te vi meter dos ases en la manga! Todos te vimos hacerlo, ni siquiera fuiste sutil!"

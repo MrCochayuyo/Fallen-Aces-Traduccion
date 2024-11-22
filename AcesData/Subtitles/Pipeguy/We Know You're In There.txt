@@ -1,0 +1,2 @@
+"Sabemos que estas ahí detective, te vimos entrar."
+{ T 4 }"Solo sal aqui para que podamos hablar."

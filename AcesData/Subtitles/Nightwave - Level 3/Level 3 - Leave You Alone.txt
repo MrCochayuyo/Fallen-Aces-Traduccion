@@ -1,0 +1,5 @@
+{ T 0 } "Los Benedettos deberian dejarte en paz."
+{ T 2.3 } "Siempre y cuando te mantengas fuera de su territorio."
+{ T 4.5 } "Pero si necesitas pasar..."
+{ T 6.3 } "Bueno..."
+{ T 7.0 } "Se creativo."

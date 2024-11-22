@@ -1,0 +1,2 @@
+{ T 0 } "Asi se hace!"
+{ T 1.3 } "Ahora solo tenemos que encontrar a Delia antes de que sea demasiado tarde."

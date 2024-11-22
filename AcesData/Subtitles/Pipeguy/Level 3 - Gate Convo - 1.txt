@@ -1,0 +1,2 @@
+{ T 0 } "No pienso entrar."
+{ T 1.4 } "TU vas a entrar."

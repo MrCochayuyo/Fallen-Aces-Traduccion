@@ -1,0 +1,8 @@
+{ T 0 } "Escucha lo que estas diciendo!"
+{ T 1.6 } "El temido Nightwave va a atraparme!"
+{ T 4.6 } "Mejor cierro las puertas!"
+{ T 6.0 } "Duermo con un revolver bajo la almohada! Wah! Soy un bebe!"
+{ T 10.6 } "Escucha, campeon."
+{ T 11.8 } "Si alguno de los ACES siguiera ahi jugando al justiciero, ya estarian viejos y grises."
+{ T 16 } "Eso fue hace como diez años o algo asi."
+{ T 18 } "Necesitarian una silla de ruedas o algo, y podrias empujarlos facilmente."
